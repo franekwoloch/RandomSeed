@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26c7860a-dbac-4617-8b5f-c8e7ba370091" name="Default" comment="" />
+    <list default="true" id="26c7860a-dbac-4617-8b5f-c8e7ba370091" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AppOne/Counter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AppOne/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AppOne/RandomDivider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AppOne/StatusThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AppOne/TimeGrain.class" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -241,12 +247,12 @@
       <workItem from="1580250045692" duration="4126000" />
       <workItem from="1581622858889" duration="4553000" />
       <workItem from="1581888293427" duration="41000" />
-      <workItem from="1581888425946" duration="2150000" />
+      <workItem from="1581888425946" duration="2328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15749000" />
+    <option name="totallyTimeSpent" value="15927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
